@@ -1,0 +1,4 @@
+//Este é o meu primeiro comentário.
+
+/*E este é o meu
+segundo comentário.*/
